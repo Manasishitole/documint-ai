@@ -1,6 +1,7 @@
 # DocuMint AI
 
 DocuMint AI is an AI-powered developer productivity tool that generates structured API documentation from C#/.NET controller code.
+As the Product Manager and creator of this project, I led user research with 10 developers, authored the PRD, scoped and shipped the MVP, validated 97/97 extracted fields across controlled tests, and launched beta testing with 5 developers.
 
 ## Problem
 
