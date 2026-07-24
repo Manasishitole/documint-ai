@@ -1,0 +1,6 @@
+@DocuMint.Api_HostAddress = http://localhost:5192
+
+GET {{DocuMint.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
