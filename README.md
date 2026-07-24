@@ -81,8 +81,31 @@ Python, TypeScript, and other languages are not officially supported in the MVP.
 
 ### Backend
 
+In the first terminal:
+
 ```bash
 cd backend
 export GEMINI_API_KEY="your-api-key"
 dotnet run
-dotnet run
+```
+
+Backend runs on:
+
+```text
+http://localhost:5192
+```
+
+### Frontend
+
+Open a second terminal:
+
+```bash
+cd frontend
+streamlit run app.py
+```
+
+Frontend runs on:
+
+```text
+http://localhost:8501
+```
