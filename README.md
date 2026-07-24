@@ -47,7 +47,7 @@ Controlled MVP testing showed:
 - 1.31 second median generation latency
 - 7 error-state scenarios tested
 
-Note: These results are based on controlled sample C#/.NET controllers and do not represent guaranteed production accuracy.
+**Note:** These results are based on controlled sample C#/.NET controllers and do not represent guaranteed production accuracy.
 
 ## Tech Stack
 
@@ -109,3 +109,12 @@ Frontend runs on:
 ```text
 http://localhost:8501
 ```
+
+## Status
+
+MVP built and validated. Beta testing is in progress.
+
+## Author
+
+Manasi Shitole  
+Product Management | AI Products | Technical Product Management
